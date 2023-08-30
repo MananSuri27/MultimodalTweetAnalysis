@@ -1,6 +1,8 @@
 # MultimodalTweetAnalysis
 This notebook represents our approach for Task 1B of the CheckThat! Lab at [CLEF 2022](https://sites.google.com/view/clef2022-checkthat/home). We ranked #1 on the task leaderboard on CodaLab.
 
+<img width="620" alt="image" src="https://github.com/MananSuri27/MultimodalTweetAnalysis/assets/84636031/09d7fa11-6aac-4890-878a-65b867d93011">
+
 ## Task 1B
 Verifiable factual claims detection: Given a tweet, predict whether it contains a verifiable factual claim. This is a binary task with two labels: Yes and No. This is a classification task.
 
